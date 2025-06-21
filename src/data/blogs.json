@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "category": "Politics",
+    "title": "Corporis voluptates sit alias Corporis voluptates sit  Corporis voluptates sit Corporis voluptates sit  delectus",
+    "author": "Maria Doe",
+    "date": "Jan 1, 2022",
+    "authorImg": "https://bootstrapmade.com/content/demo/Blogy/assets/img/blog/blog-post-5.webp",
+    "cover": "https://bootstrapmade.com/content/demo/Blogy/assets/img/blog/blog-post-3.webp"
+  },
+  {
+    "id": 2,
+    "category": "Sports",
+    "title": "Corporis voluptates sit alias Corporis voluptates sit  Corporis voluptates sit Corporis voluptates sit  delectus",
+    "author": "Allisa Mayer",
+    "date": "Jun 5, 2022",
+    "authorImg": "https://bootstrapmade.com/content/demo/Blogy/assets/img/blog/blog-post-7.webp",
+    "cover": "https://bootstrapmade.com/content/demo/Blogy/assets/img/blog/blog-post-10.webp"
+  },
+  {
+    "id": 3,
+    "category": "Entertainment",
+    "title": "Corporis voluptates sit alias Corporis voluptates sit  Corporis voluptates sit Corporis voluptates sit  delectus",
+    "author": "Mark Dower",
+    "date": "Jun 22, 2022",
+    "authorImg": "https://bootstrapmade.com/content/demo/Blogy/assets/img/blog/blog-post-10.webp",
+    "cover": "https://bootstrapmade.com/content/demo/Blogy/assets/img/blog/blog-post-1.webp"
+  },
+  {
+    "id": 4,
+    "category": "Business",
+    "title": "Corporis voluptates sit alias Corporis voluptates sit  Corporis voluptates sit Corporis voluptates sit  delectus",
+    "author": "Emily Stone",
+    "date": "Feb 14, 2023",
+    "authorImg": "https://bootstrapmade.com/content/demo/Blogy/assets/img/blog/blog-post-1.webp",
+    "cover": "https://bootstrapmade.com/content/demo/Blogy/assets/img/blog/blog-post-2.webp"
+  },
+  {
+    "id": 5,
+    "category": "Lifestyle",
+    "title": "Corporis voluptates sit alias Corporis voluptates sit  Corporis voluptates sit Corporis voluptates sit  delectus",
+    "author": "Chris Rock",
+    "date": "Mar 11, 2023",
+    "authorImg": "https://bootstrapmade.com/content/demo/Blogy/assets/img/blog/blog-post-3.webp",
+    "cover": "https://bootstrapmade.com/content/demo/Blogy/assets/img/blog/blog-post-9.webp"
+  },
+  {
+    "id": 6,
+    "category": "Tech",
+    "title": "Corporis voluptates sit alias Corporis voluptates sit  Corporis voluptates sit Corporis voluptates sit  delectus",
+    "author": "Linda Doe",
+    "date": "Apr 9, 2023",
+    "authorImg": "https://randomuser.me/api/portraits/women/52.jpg",
+    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c"
+  }
+]
