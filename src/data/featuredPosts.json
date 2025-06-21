@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://source.unsplash.com/300x300/?flower,paintbrush",
+    "image": "https://bootstrapmade.com/content/demo/Blogy/assets/img/blog/blog-post-portrait-3.webp",
     "author": "Sarah Johnson",
     "date": "Jan 21, 2025",
     "comments": 15,
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "image": "https://source.unsplash.com/300x300/?meditation,relax",
+    "image": "https://bootstrapmade.com/content/demo/Blogy/assets/img/blog/blog-post-portrait-4.webp",
     "author": "David Brown",
     "date": "Jan 24, 2025",
     "comments": 10,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "image": "https://source.unsplash.com/300x300/?art,wall",
+    "image": "https://bootstrapmade.com/content/demo/Blogy/assets/img/blog/blog-post-portrait-2.webp",
     "author": "Emma Davis",
     "date": "Jan 27, 2025",
     "comments": 6,
