@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "image": "https://source.unsplash.com/300x300/?flower,paintbrush",
+    "author": "Sarah Johnson",
+    "date": "Jan 21, 2025",
+    "comments": 15,
+    "title": "At vero eos et accusamus et iusto odio dignissimos ducimus",
+    "description": "Nullam dictum felis eu pede mollis pretium integer tincidunt cras dapibus vivamus elementum semper..."
+  },
+  {
+    "id": 2,
+    "image": "https://source.unsplash.com/300x300/?meditation,relax",
+    "author": "David Brown",
+    "date": "Jan 24, 2025",
+    "comments": 10,
+    "title": "Et harum quidem rerum facilis est et expedita distinctio",
+    "description": "Donec quam felis ultricies nec pellentesque eu pretium quis sem nulla consequat massa quis enim..."
+  },
+  {
+    "id": 3,
+    "image": "https://source.unsplash.com/300x300/?art,wall",
+    "author": "Emma Davis",
+    "date": "Jan 27, 2025",
+    "comments": 6,
+    "title": "Nam libero tempore, cum soluta nobis est eligendi optio",
+    "description": "Aenean leo ligula porttitor eu consequat vitae eleifend ac enim aliquam lorem ante dapibus in..."
+  }
+]
