@@ -10,7 +10,7 @@ const BlogCard = () => {
 
     {/* Main Large Card */}
     <div className='relative rounded-xl shadow-md sm:col-span-12 lg:col-span-8 overflow-hidden h-60 lg:h-auto'>
-      <img src="https://bootstrapmade.com/content/demo/Blogy/assets/img/blog/blog-post-3.webp" alt="" className='w-full h-full object-cover' />
+      <img src=" https://bootstrapmade.com/content/demo/Blogy/assets/img/blog/blog-post-3.webp" alt="" className='w-full h-full object-cover' />
       <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent text-white p-4 flex flex-col justify-end">
         <div className="text-sm text-gray-200 mb-1 flex items-center">
           <div className="flex items-center gap-1">
